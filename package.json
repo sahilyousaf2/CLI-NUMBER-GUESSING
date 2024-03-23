@@ -1,0 +1,19 @@
+{
+  "name": "sy66-cli-number-guessing",
+  "version": "1.0.3",
+  "description": "Make A Cli Number Guessing Game With TypeScript, Node.js And Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sahil Yousaf",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
