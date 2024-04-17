@@ -40,3 +40,6 @@ let restartAns=await inquirer.prompt([
 condition=restartAns.restart;
 
 };
+
+
+console.log(chalk.grey.bold(`\n \t Thanks You \n`));

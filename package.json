@@ -1,6 +1,6 @@
 {
   "name": "sy66-cli-number-guessing",
-  "version": "1.5.0",
+  "version": "1.5.5",
   "description": "Make A Cli Number Guessing Game With TypeScript, Node.js And Inquirer",
   "main": "index.js",
   "type": "module",
